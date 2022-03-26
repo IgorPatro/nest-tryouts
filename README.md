@@ -5,7 +5,7 @@
 ## Status: ````On hold````
 
 ## Description
-Private tryouts of nest.js 
+Private tryouts of nest.js framework
 
 ## Technologies
 - Nest.js
